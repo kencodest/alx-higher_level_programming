@@ -1,2 +1,2 @@
-#!/usr/bin/python3
-open(1, 'w').write("#pythoniscool\n")
+i#!/usr/bin/python3 
+ __builtins__.__dict__['p,r,i,n,t'.replace(',', '')]('#pythoniscool')
